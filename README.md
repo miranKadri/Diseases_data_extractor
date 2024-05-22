@@ -1,2 +1,4 @@
 # Disease and Drug Data Extractor
 A few months ago I was given a project to prepare a chatbot for a company as a freelancer, to train model for the chatbot I extractor disease and drugs data from websites. Provided scripts were used to extract some amount of data that was used for the chatbot. Hope you will find it useful for learning or possibly understanding how scraper is used.
+
+In this repository you will find two python scripts, one for diseases data and the other for drugs. Resultant data from these scripts is in json format, I had to get it in that way because I was aksed to. You will also find Jupyter Notebooks for step by step process on how scraper gets data. I usually design scraper in Jupyter Notebooks so that it is easy for me to debug if anything goes wrong at some point in process.
